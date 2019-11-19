@@ -1,0 +1,13 @@
+Package: lab49
+Type: Package
+Title: lab49
+Version: 1.1.1-1
+Date: 2019-11-17
+Authors@R: person("andrew", "deeley", email = "andywdeeley@gmail.com", role = "cre")
+Authors: Andrew Deeley
+Imports: RMySQL, DBI, data.table,ggplot2,tm,MARSS
+Description: tools to analysise and forecast equity data
+License: NIL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
